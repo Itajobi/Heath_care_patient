@@ -28,14 +28,14 @@ The dashboard visualizes key patient indicators such as demographics, medication
 # How to Use
 
 1. Clone or download this repository
-2. Open `Healthcare_Patient_Dashboard.pbix` using Power BI Desktop
+2. Open Healthcare_Patient_Dashboard.pbix using Power BI Desktop
 3. Use available filters to interact with the dashboard (e.g., by age group, gender, or diagnosis)
 4. Explore or customize the visuals for clinical presentations, reports, or decision-making
 
 # Files Included
 
-* `Healthcare_Patient_Dashboard.pbix` – Full interactive dashboard
-* `Patient_Data.csv` – Sample dataset used for visuals
+* Healthcare_Patient_Dashboard.pbix – Full interactive dashboard
+* Patient_Data.csv – Sample dataset used for visuals
   
 # Contact
 
